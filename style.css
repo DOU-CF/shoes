@@ -1,0 +1,41 @@
+* {outline: 1px solid red;}
+*,*:before,*:after {
+    box-sizing: border-box;
+}
+.wrap {
+    max-width: 856px;
+    
+    margin: 0 auto;
+    font-family: Noto Sans TC;
+    letter-spacing: 5%;
+}
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: Bold;
+    line-height: 1.2;
+    letter-spacing: 5%;
+}
+.brand-intro h3 {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: Bold;
+    line-height: 1.2;
+    letter-spacing: 5%;
+    color: #57A203;
+
+leading-trim: NONE;
+
+
+background: #57A203;
+
+
+
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.brand-intro p {
+    line-height: 1.5;
+}
