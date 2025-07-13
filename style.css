@@ -60,23 +60,16 @@ img {
 }
 
 
-
-ul {
-  list-style-type: revert;
-  list-style-position: revert;
-  margin: revert;
-  padding: revert;
-}
 li {
     color: #212529;
     line-height: 1.5;
     gap: 10px;
-    padding: 12px;
+    
 
 }
 .brand-history span {
     border-left: 1px solid #000;
-    padding: 8px;
+    
 }
 
 .dot li span{
